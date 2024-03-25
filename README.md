@@ -9,7 +9,7 @@ Each property folder contains 3 important files and should be run in the same or
 3. **model_<property_name>.ipynb**: this file divides the input and output data into train, valid, and test datasets. It then trains models on train data and shows the loss on the valid data to check for overfitting. This file saves the model after every epoch in the folder named "model"
 4. **test_<property_name>.ipynb**: this tests the model on the test data set. Mention the correct epoch number by changing the value of the variable "epoch_check" for using the appropriate saved model from the "model" folder.
 
-**Predicting preperties for one sequence at a time**
+**Predicting preperties for one sequence at a time** \
 All the property folders have filename **predict_<property_name>_for_single_sequence.ipynb**. In that file enter the input for the variable **user_input** in the third fromn the last cell. 
 
 **Mutation Study Protocol**

@@ -1,6 +1,5 @@
 # spider_silk_codes
-Contains code for the spider silk mechanical property prediction
-
+Predictive model for the mechanocal properties of the dragline spider silk. 
 Here we work on **5 mechanical properties**: 1. strain at break, 2. ultimate tensile strength, 3. toughness, 4. Young's modulus, and 5. supercontraction
 
 Each property folder contains 3 important files and should be run in the same order as mentioned below:

@@ -28,4 +28,18 @@ All the property folders have filename **predict_<property_name>_for_single_sequ
 3. It is important to note that the models presented in this study are trained on dragline spider silk. Therefore the model's trained parameters cannot be used for other types of spider silk. But the models can be developed and trained from scrtach using the framework discussed in the [paper](https://www.researchsquare.com/article/rs-3727903/v1). 
 
 
+## Citation
 
+If you use this work, please cite:
+
+```bibtex
+@article{pandey2024sequence,
+  title={Sequence-based data-constrained deep learning framework to predict spider dragline mechanical properties},
+  author={Pandey, Akash and Chen, Wei and Keten, Sinan},
+  journal={Communications Materials},
+  volume={5},
+  number={1},
+  pages={83},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}

@@ -1,5 +1,7 @@
-# spider_silk_codes
-Predictive model for the mechanocal properties of the dragline spider silk. 
+# Predictive Model for the Mechanocal Properties of the Dragline Spider Silk
+
+**Paper** <br>
+[Sequence-based data-constrained deep learning framework to predict spider dragline mechanical properties](https://www.nature.com/articles/s43246-024-00519-y) <br>
 
 Here we work on **5 mechanical properties**: 1. strain at break, 2. ultimate tensile strength, 3. toughness, 4. Young's modulus, and 5. supercontraction
 
